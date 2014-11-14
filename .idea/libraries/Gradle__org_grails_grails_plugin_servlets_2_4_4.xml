@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-plugin-servlets:2.4.4">
+    <CLASSES>
+      <root url="jar://C:/dev/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-servlets/2.4.4/3f5cbb7c996694996cb77fba22d5d714f7beba1d/grails-plugin-servlets-2.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/dev/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-servlets/2.4.4/e9802b63253714dad0dc9a8a16efeccc8391ea82/grails-plugin-servlets-2.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

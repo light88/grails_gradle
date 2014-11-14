@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-plugin-log4j:2.4.4">
+    <CLASSES>
+      <root url="jar://C:/dev/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-log4j/2.4.4/6084947acc0336ec4667c85ba3895a902698cd96/grails-plugin-log4j-2.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/dev/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-log4j/2.4.4/d567f4ecdcb7e4114cc7f88d4ad789c6bc0987ee/grails-plugin-log4j-2.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
